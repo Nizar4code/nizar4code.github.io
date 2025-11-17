@@ -1,0 +1,9 @@
+.hero-section {
+  display: flex;
+  background-color: red;
+  min-height: 100vh;
+}
+
+.hero-frame {
+  margin: auto;
+}

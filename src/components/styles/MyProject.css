@@ -1,0 +1,9 @@
+.project-section {
+    display: flex;
+    background-color: blueviolet;
+    min-height: fit-content;
+}
+
+.project-frame {
+    margin: auto;
+}

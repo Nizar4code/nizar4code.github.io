@@ -1,0 +1,8 @@
+.contact-section {
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.contact-frame {
+    margin: auto;
+}
